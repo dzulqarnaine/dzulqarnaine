@@ -30,6 +30,8 @@ As a 6th semester Statistics Student at Syiah Kuala University, I have always be
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2 align="center">Connect With Me</h2>
 <div align="center">
   <a href="https://www.github.com/dzulqarnaine" target="_blank" rel="noreferrer">
@@ -38,6 +40,9 @@ As a 6th semester Statistics Student at Syiah Kuala University, I have always be
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
+  </a>
+  <a href="https://www.instagram.com/_dzlqrnne/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="32" height="32" alt="Instagram logo" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-zulkarnaini-01b7b0285/" target="_blank" rel="noreferrer">
     <picture>
@@ -49,20 +54,7 @@ As a 6th semester Statistics Student at Syiah Kuala University, I have always be
   <a href="mailto:muhammaddzulkarnaen120@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" alt="Gmail logo" />
   </a>
-  <a href="https://www.instagram.com/_dzlqrnne/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="32" height="32" alt="Instagram logo" />
-  </a>
 </div>
-
-
-
-
-
-
-
-
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
