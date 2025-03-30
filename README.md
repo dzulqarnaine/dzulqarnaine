@@ -24,12 +24,7 @@ As a 6th semester Statistics Student at Syiah Kuala University, I have always be
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" width="52" alt="visual studio code logo" />
 </div>
 
-
-
 ###
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">Connect With Me</h2>
