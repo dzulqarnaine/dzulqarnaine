@@ -49,7 +49,11 @@ As a 6th semester Statistics Student at Syiah Kuala University, I have always be
   <a href="mailto:muhammaddzulkarnaen120@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" alt="Gmail logo" />
   </a>
+  <a href="https://www.instagram.com/_dzlqrnne/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="32" height="32" alt="Instagram logo" />
+  </a>
 </div>
+
 
 
 
