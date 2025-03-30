@@ -6,3 +6,5 @@ As a Statistics Student of Syiah Kuala University (6th semester), I have always 
 ![](https://komarev.com/ghpvc/?username=dzulqarnaine&color=447ff7&label=Visitor+count)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
